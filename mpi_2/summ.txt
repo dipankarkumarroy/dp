@@ -1,0 +1,24 @@
+Summary of Key MPI Functions Used Across Problems:
+MPI_Init: Initialize MPI environment
+
+MPI_Finalize: Terminate MPI environment
+
+MPI_Comm_rank: Get process rank (ID)
+
+MPI_Comm_size: Get total number of processes
+
+MPI_Send: Send data to specific process
+
+MPI_Recv: Receive data from specific process
+
+MPI_Bcast: Broadcast data to all processes
+
+MPI_Scatter: Distribute chunks of data to processes
+
+MPI_Gather: Collect data from all processes
+
+MPI_Reduce: Perform reduction operation (sum, max, min, etc.)
+
+MPI_Barrier: Synchronize all processes
+
+MPI_Wtime: Get current time for performance measurement

@@ -1,0 +1,25 @@
+Question List:
+
+1.WAPP to sort a set of "n" integers using a suitable algorithm.
+
+2.WAPP to multiply two compatible matrices.
+
+3.WAPP to add two compatible matrices using broadcast.
+
+4.WAPP to add two compatible matrices using scatter.
+
+5.WAPP to compute the value of PI using numerical integration.
+
+6.WAPP to implement linear search.
+
+7.WAPP to compute the sum of the series: 1/1! + 2/2! + ... + 20/20!
+
+8.WAPP to initialize an array of size 20 in the master node, scatter among all nodes with chunk size 4, compute partial sums, and use reduction for total sum.
+
+9.WAPP to initialize an array of size 20 in the master node, scatter among all nodes with chunk size 4, compute partial sums, and sum them without reduction.
+
+10.WAPP to initialize an array of size 20 in the master node, broadcast to all nodes, compute partial sums (distinct 4 values per node), and sum them without reduction.
+
+11.WAPP to initialize an array of size 20 in the master node, broadcast to all nodes, compute partial sums (distinct 4 values per node), and use reduction for total sum.
+
+12.WAPP to initialize an array of size 20 in the master node, scatter among all nodes with chunk size 4, compute partial sums, and use gather for total sum.
